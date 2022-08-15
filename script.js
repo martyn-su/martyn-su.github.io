@@ -1,0 +1,1 @@
+gsap.to('.w3-jumbo',{duration:1, y: '100%', ease:'bounce'});
